@@ -3,6 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Luan Lima Lopes, tenho 20 anos e sou de campinas - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisal. Sou apaixonado por tecnologia e desenvolvimento, compartilho meus estudos e projetos aqui no git!
+
 Estou buscando minha primeira oportunidade como estagiário em desenvolvimento Back-end!
 
 ---
