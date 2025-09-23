@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luan Lima Lopes
+#  Luan Lima Lopes
 
 **`Desenvolvedor Back-end`**
 
