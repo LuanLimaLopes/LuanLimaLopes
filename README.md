@@ -1,140 +1,42 @@
-#  Luan Lima Lopes
+# Luan Lima Lopes
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Luan Lima Lopes, tenho 20 anos e sou de campinas - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisal. Sou apaixonado por tecnologia e desenvolvimento, compartilho meus estudos e projetos aqui no git!
+Me chamo Luan Lima Lopes, tenho 21 anos e sou de Campinas - SP. sou formado em Análise e Desenvolvimento de Sistemas na Unisal. Sou apaixonado por tecnologia e desenvolvimento, e compartilho meus estudos e projetos aqui no GitHub!
 
-Estou buscando minha primeira oportunidade como estagiário em desenvolvimento Back-end!
+🎯 **Estou buscando minha primeira oportunidade como Dev junior Back-end!**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img alt="HTML, CSS, JavaScript, PHP, MySQL, Git e Python" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,python" />
+  </a>
+</p>
 
+### 🌱 Aprendendo agora
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-<br/>
-### 🤖 Aprendendo agora
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img alt="TypeScript, React, Node.js, PostgreSQL, Tailwind e Rust" src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,tailwind,rust" />
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="Nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-
-
-
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luanlimalopes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+<p align="left">
+  <img
+    alt="Estatísticas do GitHub"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=luanlimalopes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlimalopes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    alt="Tecnologias mais usadas"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlimalopes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
-
 </p>
